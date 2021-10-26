@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Sebastien Wallukat
+### I've only just started learning the basics of Python & SQL 
+[ www.linkedin.com/in/wallukat](Linkedin)
+
 
 <!--
 **p0quelin/p0quelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
