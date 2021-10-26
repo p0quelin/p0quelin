@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Sebastien Wallukat
-### I've only just started learning the basics of Python & SQL 
+
 [ www.linkedin.com/in/wallukat](Linkedin)
 
 
