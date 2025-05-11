@@ -6,9 +6,9 @@
 
 ### 🌱 Exploring:
 
-- 🚀 **Data Analysis**: Working on a project at Shopify 🛒  
-- 📊 **SQL**: Leveling up my skills (currently 3/5 proficiency!)  
-- 💎 **Ruby & Ruby on Rails**: Diving into the world of web development  
+- 🚀 **Data Analysis**
+- 📊 **SQL**:
+- 💎 **Ruby & Ruby on Rails**: (In progress)
 
 ---
 
